@@ -1,0 +1,5 @@
+port: "9000"
+database:
+  url: "localhost:3306/MENU"
+  user: "root"
+  password: "104725"
