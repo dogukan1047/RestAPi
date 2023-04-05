@@ -1,8 +1,8 @@
 package controller
 
 import (
-	Config "awesomeProject/config"
-	models "awesomeProject/model"
+	Config "RestApiGo/Config"
+	models "RestApiGo/model"
 	"encoding/csv"
 	"encoding/json"
 	"net/http"
